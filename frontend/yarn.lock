@@ -2659,7 +2659,7 @@
     "@react-types/slider" "^3.6.2"
     "@swc/helpers" "^0.5.0"
 
-"@react-aria/ssr@^3.0.1", "@react-aria/ssr@^3.3.0", "@react-aria/ssr@^3.8.0":
+"@react-aria/ssr@^3.0.1", "@react-aria/ssr@^3.8.0":
   version "3.8.0"
   resolved "https://registry.npmjs.org/@react-aria/ssr/-/ssr-3.8.0.tgz"
   integrity sha512-Y54xs483rglN5DxbwfCPHxnkvZ+gZ0LbSYmR72LyWPGft8hN/lrl1VRS1EW2SMjnkEWlj+Km2mwvA3kEHDUA0A==
@@ -2670,6 +2670,13 @@
   version "3.9.1"
   resolved "https://registry.npmjs.org/@react-aria/ssr/-/ssr-3.9.1.tgz"
   integrity sha512-NqzkLFP8ZVI4GSorS0AYljC13QW2sc8bDqJOkBvkAt3M8gbcAXJWVRGtZBCRscki9RZF+rNlnPdg0G0jYkhJcg==
+  dependencies:
+    "@swc/helpers" "^0.5.0"
+
+"@react-aria/ssr@^3.9.8":
+  version "3.9.9"
+  resolved "https://registry.yarnpkg.com/@react-aria/ssr/-/ssr-3.9.9.tgz#a35c6840962e72357560d4dcb4a6300f94272354"
+  integrity sha512-2P5thfjfPy/np18e5wD4WPt8ydNXhij1jwA8oehxZTFqlgVMGXzcWKxTb4RtJrLFsqPO7RUQTiY8QJk0M4Vy2g==
   dependencies:
     "@swc/helpers" "^0.5.0"
 
