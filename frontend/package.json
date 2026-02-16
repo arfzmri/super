@@ -78,7 +78,7 @@
     "react-native-web": "^0.19.9",
     "react-qr-code": "^2.0.5",
     "react-router-dom": "^6.3.0",
-    "react-router-native": "^6.3.0",
+    "react-router-native": "^6.30.3",
     "react-scripts": "^5.0.1",
     "source-map-explorer": "^2.5.2",
     "timeago.js": "^4.0.2",
